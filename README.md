@@ -1,4 +1,4 @@
-**# DocBot: Comprehensive Medical AI Assistant**  
+# **DocBot: Comprehensive Medical AI Assistant**  
 
 ---
 
